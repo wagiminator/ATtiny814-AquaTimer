@@ -1,7 +1,7 @@
 # AquaTimer - Programmable Timer for Aquariums based on ATtiny414/814/1614
 AquaTimer is a programmable timer for 12V devices such as lighting, solenoid valves or pumps not only for aquariums. It has three switchable channels for currents up to 2A each and up to 5A in total. Connected lighting can be dimmed if desired and slowly faded in and out to simulate sunrises and sunsets. The internal RTC of the ATtiny is used as a clockwork in conjunction with a 32.768kHz crystal. A backup battery keeps the clock running even if the external power supply is interrupted. Settings are made using three buttons and the OLED display.
 
-- Design Files (EasyEDA): 
+- Design Files (EasyEDA): https://easyeda.com/wagiminator/attiny814-aquacontroller
 
 ![pic1.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny814-AquaTimer/main/documentation/AquaTimer_pic1.jpg)
 
